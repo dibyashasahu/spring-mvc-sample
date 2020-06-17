@@ -1,4 +1,4 @@
-DIBYASHA
+DIBYASHA SAHU
 
 [![Code coverage](https://coveralls.io/repos/manish-in-java/spring-mvc-sample/badge.svg)](https://coveralls.io/r/manish-in-java/spring-mvc-sample)
 [![Custom License](http://b.repl.ca/v1/License-CUSTOM-red.png)](#LICENSE)
