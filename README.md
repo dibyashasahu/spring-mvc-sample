@@ -12,7 +12,7 @@ to test the application on [http://localhost:8080](http://localhost:8080).
 This sample mmmmapplication and its associated source code in its entirety is being made
 available under the following licensing terms.
 
-    Copyright (C) 2015
+    Copyright (C) 2015systdfyfyu
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in the
