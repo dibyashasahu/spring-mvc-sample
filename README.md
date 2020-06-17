@@ -9,7 +9,7 @@ A sample Spring MVC application.  Just run the embedded Tomcat server as `mvn cl
 to test the application on [http://localhost:8080](http://localhost:8080).
 
 # License
-This sample application and its associated source code in its entirety is being made
+This sample mmmmapplication and its associated source code in its entirety is being made
 available under the following licensing terms.
 
     Copyright (C) 2015
