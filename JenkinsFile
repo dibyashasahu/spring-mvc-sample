@@ -1,0 +1,14 @@
+node{
+    stage("GITHUB CHECKOUT"){
+        git credentialsId: 'GITHUB', url: 'https://github.com/dibyashasahu/spring-mvc-sample.git'
+    
+    }
+    stage("maven"){
+        echo "MAVEN_BUILD"
+
+        stage("TEST"){
+            echo "dibyasha"
+        }
+    }
+
+}
